@@ -1,0 +1,20 @@
+{
+  "remotePath": "/usr/src/kang/wechat",
+  "host": "115.159.188.133",
+  "username": "root",
+  "password": "qcloudroot414983",
+  "port": 22,
+  "secure": true,
+  "protocol": "sftp",
+  "uploadOnSave": true,
+  "passive": false,
+  "debug": false,
+  "privateKeyPath": null,
+  "passphrase": null,
+  "ignore": ["\\.vscode", "\\.git", "\\.DS_Store", "\\node_modules"],
+  "generatedFiles": {
+    "uploadOnSave": false,
+    "extensionsToInclude": [],
+    "path": ""
+  }
+}
